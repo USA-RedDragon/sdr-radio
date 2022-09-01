@@ -1,0 +1,6 @@
+[submodule "ad8348-breakout"]
+	path = breakouts/ad8348-rf-demodulator
+	url = https://github.com/USA-RedDragon/ad8348-breakout
+[submodule "STM32H757IIT6-breakout"]
+	path = breakouts/STM32H757IIT6-breakout
+	url = https://github.com/USA-RedDragon/STM32H757IIT6-breakout
