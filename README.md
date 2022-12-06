@@ -1,6 +1,4 @@
-# SDR Radio Project
-
-Subject to rename when a better one comes to me :)
+# SDRain
 
 ## Project Goals
 
